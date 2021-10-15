@@ -3,25 +3,25 @@
 ## Endpoints:
 
 ### Grab a random joke!
-[https://official-joke-api.appspot.com/random_joke](https://official-joke-api.appspot.com/random_joke)
+[https://jokeapirandom.herokuapp.com/random_joke](https://jokeapirandom.herokuapp.com/random_joke)
 
 
-[https://official-joke-api.appspot.com/jokes/random](https://official-joke-api.appspot.com/jokes/random)
+[https://jokeapirandom.herokuapp.com/jokes/random](https://jokeapirandom.herokuapp.com.com/jokes/random)
 
 ### Grab ten random jokes!
-[https://official-joke-api.appspot.com/random_ten](https://official-joke-api.appspot.com/random_ten)
+[https://jokeapirandom.herokuapp.com/random_ten](https://jokeapirandom.herokuapp.com.com/random_ten)
 
 
 
-[https://official-joke-api.appspot.com/jokes/ten](https://official-joke-api.appspot.com/jokes/ten)
+[https://jokeapirandom.herokuapp.com/jokes/ten](https://jokeapirandom.herokuapp.com.com/jokes/ten)
 
 ### Grab jokes by type!
 
 The endpoints are `jokes/:type/random` or `jokes/:type/ten`. For example:
 
-[https://official-joke-api.appspot.com/jokes/programming/random](https://official-joke-api.appspot.com/jokes/programming/random)
+[https://jokeapirandom.herokuapp.com/jokes/programming/random](https://jokeapirandom.herokuapp.com/jokes/programming/random)
 
-[https://official-joke-api.appspot.com/jokes/programming/ten](https://official-joke-api.appspot.com/jokes/programming/ten)
+[https://jokeapirandom.herokuapp.com/jokes/programming/ten](https://jokeapirandom.herokuapp.com/jokes/programming/ten)
 
 ***
 
